@@ -1,6 +1,6 @@
 # FP20-Analytics-Challenge-28
 
-# 📊 Customer Support Intelligence Dashboard – FP20
+# 📊 Customer IT Support Tickets Intelligence Dashboard – FP20
 
 ## 🧠 Overview
 This project delivers a comprehensive dashboard for visualizing and analyzing customer support ticket operations across FP20. The solution leverages dynamic filtering, SLA insights, tag intelligence, and regional analysis to provide a 360° understanding of customer support performance.
